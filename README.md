@@ -9,7 +9,7 @@
 - 📖 Learning Flutter framework... in foreseen future
 - 💬 Ask me about anything
 - 💻 Portfolio : [shreyasss.cf](http://shreyasss.cf)
-- 📫 Find me at : Telegram - [@elicited](https://t.me/elicited)
+- 📫 Find me at : [Telegram](https://t.me/elicited) or [WhatsApp](https://wa.me/919112880490)
 - ⚡ Let's Collaborate 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=elicited&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
