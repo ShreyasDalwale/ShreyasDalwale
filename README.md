@@ -12,6 +12,8 @@
 - 📫 Find me at : [Telegram](https://telegram.dog/ShreyasDalwale)
 - 💻 Below are some of my Projects
 <br>
+<br>
+
 <table align="center">
   <tr>
     <th colspan="2">Projects</th>
