@@ -24,7 +24,7 @@
   </tr>
   
   <tr>
-    <td width=300px><h1><a href="http://codePic.cf">codePic</a></h1><br>It exports code snippets to themed images.</td>
+    <td><h1><a href="http://codePic.cf">codePic</a></h1><br>It exports code snippets to themed images.</td>
     <td> <img src="codePic.png"  alt="1" width = 700px ></td>
    </tr> 
 <!--   <tr>
