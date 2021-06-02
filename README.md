@@ -2,7 +2,7 @@
 [![linkedin badge](https://img.shields.io/badge/Shreyas-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ShreyasDalwale)
 [![telegram badge](https://img.shields.io/badge/Shreyas-30302f?style=flat&logo=telegram)](https://t.me/ShreyasDalwale) 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ShreyasDalwale/)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ShreyasDalwale/&title=Profile%20Views)
 
 - 🔭 I’m currently working on Python, Flask Projects
 - 📖 Learning Flutter framework
